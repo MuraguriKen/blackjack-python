@@ -18,4 +18,4 @@ A console-based Blackjack game built in Python using object-oriented programming
 - Procedural game flow
 
 ## How to Run
-Run the notebook or Python file to start the game.
+Run the notebook file to start the game.
